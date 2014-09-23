@@ -13,6 +13,8 @@
 		8ABCD05C19CCE66C00CA2710 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8ABCD05B19CCE66C00CA2710 /* Images.xcassets */; };
 		8ABCD05F19CCE66C00CA2710 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8ABCD05D19CCE66C00CA2710 /* LaunchScreen.xib */; };
 		8ABCD06B19CCE66C00CA2710 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ABCD06A19CCE66C00CA2710 /* PostcardTests.swift */; };
+		8ABCD07519CDE2B400CA2710 /* Argonne_aerial.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8ABCD07419CDE2B400CA2710 /* Argonne_aerial.jpg */; };
+		8ABCD07719CDEA4100CA2710 /* 615378_10151241995248566_171907909_o.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8ABCD07619CDEA4100CA2710 /* 615378_10151241995248566_171907909_o.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		8ABCD06419CCE66C00CA2710 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8ABCD06919CCE66C00CA2710 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8ABCD06A19CCE66C00CA2710 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		8ABCD07419CDE2B400CA2710 /* Argonne_aerial.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Argonne_aerial.jpg; sourceTree = "<group>"; };
+		8ABCD07619CDEA4100CA2710 /* 615378_10151241995248566_171907909_o.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 615378_10151241995248566_171907909_o.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		8ABCD05219CCE66C00CA2710 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				8ABCD07619CDEA4100CA2710 /* 615378_10151241995248566_171907909_o.jpg */,
+				8ABCD07419CDE2B400CA2710 /* Argonne_aerial.jpg */,
 				8ABCD05319CCE66C00CA2710 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,9 +198,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8ABCD07519CDE2B400CA2710 /* Argonne_aerial.jpg in Resources */,
 				8ABCD05A19CCE66C00CA2710 /* Main.storyboard in Resources */,
 				8ABCD05F19CCE66C00CA2710 /* LaunchScreen.xib in Resources */,
 				8ABCD05C19CCE66C00CA2710 /* Images.xcassets in Resources */,
+				8ABCD07719CDEA4100CA2710 /* 615378_10151241995248566_171907909_o.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
